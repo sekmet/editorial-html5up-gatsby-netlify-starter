@@ -20,11 +20,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 # 🚀 Features
 
-<p align="center">
-  <a href="https://github.com/sekmet/editorial-html5up-gatsby">
-    <img alt="Gatsby" src="https://github.com/sekmet/editorial-html5up-gatsby/raw/master/docs/img/screencapture-html5up-net-uploads-demos-editorial-2019-08-20-22_50_03.jpg" />
-  </a>
-</p>
+- in progress
 
 # Community
 
