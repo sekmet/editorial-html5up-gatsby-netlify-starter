@@ -8,7 +8,6 @@ const Footer = () => (
         site {
           siteMetadata {
             title
-            by
           }
         }
         allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "footer"}}}) {
