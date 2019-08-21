@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/sekmet/editorial-html5up-gatsby">
-    <img alt="Gatsby" src="https://github.com/sekmet/editorial-html5up-gatsby/raw/master/docs/img/tag-html5up-net-uploads-demos-editorial-2019-08-20-22_50_03.jpg" />
+    <img alt="Gatsby" src="https://github.com/sekmet/editorial-html5up-gatsby-netlify-starter/raw/master/docs/img/tag-html5up-net-uploads-demos-editorial-2019-08-20-22_50_03.jpg" />
   </a>
 </p>
 
