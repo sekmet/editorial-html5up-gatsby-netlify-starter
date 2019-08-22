@@ -18,19 +18,19 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sekmet/editorial-html5up-gatsby-netlify-starter)
 
-# 🚀 Features
+# 💡 Features
 
 - in progress
 
-# Community
+# 🌐 Community
 
 Netlify CMS has a [Gitter community](https://gitter.im/netlify/netlifycms) where members of the community hang out and share things about the project, as well as give and receive support.
 
-# Contributing
+# 💎 Contributing
 
-New contributors are always welcome! Check out [CONTRIBUTING.md](https://github.com/netlify/netlify-cms/blob/master/CONTRIBUTING.md) to get involved.
+New contributors are always welcome!
 
-# If you like, consider a donation!
+# 💗 If you like, consider a donation!
 
 Every single donation is important. Your donation is gonna make a clear statement: `My work is Valued`.
 
