@@ -30,10 +30,14 @@ Netlify CMS has a [Gitter community](https://gitter.im/netlify/netlifycms) where
 
 New contributors are always welcome! Check out [CONTRIBUTING.md](https://github.com/netlify/netlify-cms/blob/master/CONTRIBUTING.md) to get involved.
 
-# Change Log
+# If you like, consider a donation!
 
-Every release is documented on the Github [Releases](https://github.com/netlify/netlify-cms/releases) page.
+Every single donation is important. Your donation is gonna make a clear statement: `My work is Valued`.
 
-# License
+Your donation is going to help me devote more time to open source. I'd love to be able to devote several hours per week to maintaining existing projects as well as creating new ones.
+
+#### 🙏 Thank you for your support! 🙏
+
+<a href="https://www.patreon.com/bePatron?u=23459686" data-patreon-widget-type="become-patron-button"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" /></a>
 
 <!-- AUTO-GENERATED-CONTENT:END -->

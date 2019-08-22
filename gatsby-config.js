@@ -10,7 +10,7 @@ const GATSBY_CHECK_IF_PLUGIN_SHOPIFY2 = () => {
 
   if (ifShopify)
   return  {
-    resolve: `gatsby-source-shopify2`,
+    resolve: `gatsby-source-shopify`,
     options: {
       // The domain name of your Shopify shop. This is required.
       // Example: 'gatsby-source-shopify-test-shop' if your Shopify address is
@@ -30,6 +30,16 @@ const GATSBY_CHECK_IF_PLUGIN_SHOPIFY2 = () => {
       // much time was required to fetch and process the data.
       // Defaults to true.
       verbose: true,
+
+      // Number of records to fetch on each request when building the cache
+      // at startup. If your application encounters timeout errors during
+      // startup, try decreasing this number.
+      paginationSize: 250,
+
+      // List of collections you want to fetch.
+      // Possible values are: 'shop' and 'content'.
+      // Defaults to ['shop', 'content'].
+      includeCollections: ["shop"],
     }
   }
   else

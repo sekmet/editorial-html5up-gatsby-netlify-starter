@@ -5,13 +5,13 @@ import { useStaticQuery,  graphql, Link } from 'gatsby'
 import Image from 'gatsby-image'
 
 //import { Img } from '../../utils/styles'
-const ifShopify = process.env.GATSBY_SHOPIFY_ACCESS_TOKEN ? process.env.GATSBY_SHOPIFY_ACCESS_TOKEN : process.env.SHOPIFY_ACCESS_TOKEN
+//const ifShopify = process.env.GATSBY_SHOPIFY_ACCESS_TOKEN ? process.env.GATSBY_SHOPIFY_ACCESS_TOKEN : process.env.SHOPIFY_ACCESS_TOKEN
 
 const ProductGrid = () => {
 
-  const data = false
+  //const data = false
 
-  /*const data = useStaticQuery(
+  const data = useStaticQuery(
     graphql`
       query {
         allShopifyProduct(
@@ -47,7 +47,7 @@ const ProductGrid = () => {
         }
       }
     `
-  )*/
+  )
 
   return (
       <section>

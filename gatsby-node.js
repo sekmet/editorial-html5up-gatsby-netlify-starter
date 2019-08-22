@@ -14,7 +14,7 @@ exports.onPostBootstrap = ({ graphql }) => {
 const fs = require('fs')
 
 var colors = require(path.resolve('./static/admin/site_colors_fonts.json'))
-  console.log(colors)
+  //console.log(colors)
 
 var site_font_family = `${colors.site_font_family}`.split(',')
 var site_heading_font = `${colors.site_heading_font}`.split(',')

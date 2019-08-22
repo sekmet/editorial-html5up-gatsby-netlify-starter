@@ -41,7 +41,7 @@ const ProductPage = ({ data }) => {
   )
 }
 
-/*export const query = graphql`
+export const query = graphql`
   query($handle: String!) {
     shopifyProduct(handle: { eq: $handle }) {
       id
@@ -80,6 +80,6 @@ const ProductPage = ({ data }) => {
       }
     }
   }
-`*/
+`
 
 export default ProductPage
