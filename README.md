@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Editorial by HTML5 UP + Gatsby + Netlify CMS Starter
+  🎨 Editorial by HTML5 UP + Gatsby + Netlify CMS Starter
 </h1>
 <p align="center">
   <a href="https://github.com/sekmet/editorial-html5up-gatsby">
